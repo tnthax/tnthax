@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tnthax
+- 👀 I’m interested in Minecraft cheat development
+- 🌱 I’m currently learning frontend web development and Forge modding
+- 💞️ I’m looking to collaborate on Spigot plugins and Minecraft cheat clients
+- 📫 How to reach me: Discord (TNT10128#2458) or Email (tntthenoob at gmail dot com)
